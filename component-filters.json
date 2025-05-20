@@ -371,6 +371,12 @@
     ]
   },
   {
+    "id": "abc",
+    "components": [
+      "offer-item-2"
+    ]
+  },
+  {
     "id": "cards",
     "components": [
       "card"
