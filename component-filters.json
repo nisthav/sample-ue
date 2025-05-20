@@ -21,7 +21,6 @@
       "hero",
       "cards",
       "columns",
-      "cde",
       "fragment",
       "product-teaser",
       "product-recommendations"
@@ -375,6 +374,12 @@
     "id": "cards",
     "components": [
       "card"
+    ]
+  },
+  {
+    "id": "cde",
+    "components": [
+      "text"
     ]
   },
   {
