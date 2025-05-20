@@ -371,12 +371,6 @@
     ]
   },
   {
-    "id": "abc",
-    "components": [
-      "offer-item-2"
-    ]
-  },
-  {
     "id": "cards",
     "components": [
       "card"
@@ -395,12 +389,6 @@
       "image",
       "button",
       "title"
-    ]
-  },
-  {
-    "id": "offer-list",
-    "components": [
-      "offer-item"
     ]
   }
 ]
