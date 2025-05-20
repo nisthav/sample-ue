@@ -396,5 +396,11 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "offer-list",
+    "components": [
+      "offer-item"
+    ]
   }
 ]
